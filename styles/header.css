@@ -1,6 +1,7 @@
 .header {
   width: 750px;
   padding: 30px;
+  border: none;
   display: flex;
   flex-direction: row;
   justify-content: space-around;
@@ -17,5 +18,5 @@
 .message {
   width: 200px;
   height: 200px;
-  padding-left: 20px;
+  padding-left: 40px;
 }
