@@ -1,0 +1,10 @@
+. body {
+  background-image: url("images/spaceforthoughts.jpg");
+  background-repeat: no-repeat;
+  background-position: top right;
+  background-size: cover;
+  background-color: #c95a42;
+}
+.hero {
+  background-image: none;
+}
